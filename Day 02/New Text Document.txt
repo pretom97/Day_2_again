@@ -1,0 +1,6 @@
+for write comment use #
+
+text = string
+number = integer
+buliyan = true or false
+flot = fraction
